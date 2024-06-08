@@ -107,6 +107,7 @@ body {
 .item:hover .more {
   transition: 0.5s;
   opacity: 1;
+  cursor: pointer;
 }
 .item:hover .name, .item:hover .country {
   transform: translate(0, -30px);
